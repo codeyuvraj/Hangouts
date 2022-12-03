@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703496749941",
+    "project_id": "iiitdm-hangouts",
+    "storage_bucket": "iiitdm-hangouts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703496749941:android:a4807811581fc26f22893c",
+        "android_client_info": {
+          "package_name": "com.macbook.hang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703496749941-v9ae6p1hhgm6kv64kd1073g5mcc3eh8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPr1LljvY3vgzO-rdEuQ7BbKQypa4WzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703496749941-v9ae6p1hhgm6kv64kd1073g5mcc3eh8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hang</string>
+
+    <string-array name="brew_array">
+        <item>Acads Block</item>
+        <item>Admin Building</item>
+        <item>Ashwatha</item>
+        <item>Auditorium</item>
+        <item>Ashoka</item>
+        <item>Akshaya</item>
+        <item>Cafeteria</item>
+        <item>Library</item>
+    </string-array>
+
+</resources>
